@@ -1,5 +1,4 @@
-# account
-This is an application that allows you to manage your bank account.
+# This is an application that allows you to manage your bank account.
 
 # Getting Started
 First, run the development server:
